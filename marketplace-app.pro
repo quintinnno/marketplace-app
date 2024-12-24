@@ -7,7 +7,7 @@
     🟠 bugfix:     
     🟢 release:    
     🟡 refactor:   
-    🟣 document:
+    🟣 document: Atualizar Documento
 
 # Branch
 
